@@ -1,0 +1,9 @@
+
+.idea/.gitignore
+.idea/crudzin.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.venv/
+__pycache__/
+
